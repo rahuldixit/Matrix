@@ -1,13 +1,29 @@
+# README #
 
-This application allows for matrix addition, subtraction and multiplication. Any dimensions are possible.
-Unit tests are used to drive the application.
+This README would normally document whatever steps are necessary to get your application up and running.
 
-The application demonstrates:
--Proper use of unit testing practices
--Operator overloading
--C# datatypes
--Properties and exceptions
--XUnit Inline Data
+### What is this repository for? ###
 
-You need visual studio, XUnit to run the application
+* Quick summary
+* Version
+* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
 
+### How do I get set up? ###
+
+* Summary of set up
+* Configuration
+* Dependencies
+* Database configuration
+* How to run tests
+* Deployment instructions
+
+### Contribution guidelines ###
+
+* Writing tests
+* Code review
+* Other guidelines
+
+### Who do I talk to? ###
+
+* Repo owner or admin
+* Other community or team contact
