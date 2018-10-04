@@ -3,11 +3,11 @@ This application allows for matrix addition, subtraction and multiplication. Any
 Unit tests are used to drive the application.
 
 The application demonstrates:
-Proper use of unit testing practices
-Operator overloading
-C# datatypes
-Properties and exeptions
-XUnit Inline Data
+-Proper use of unit testing practices
+-Operator overloading
+-C# datatypes
+-Properties and exeptions
+-XUnit Inline Data
 
-You need visual sutdio, XUnit to run the application
+You need visual studio, XUnit to run the application
 
