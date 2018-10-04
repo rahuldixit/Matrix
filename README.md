@@ -6,7 +6,7 @@ The application demonstrates:
 -Proper use of unit testing practices
 -Operator overloading
 -C# datatypes
--Properties and exeptions
+-Properties and exceptions
 -XUnit Inline Data
 
 You need visual studio, XUnit to run the application
